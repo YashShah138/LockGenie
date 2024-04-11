@@ -1,4 +1,4 @@
-import React from 'react';
+import React from 'react'
 import { Nav, NavLink, NavMenu } from './Navbarelements'
 // import { useNavigate } from 'react-router-dom'
 

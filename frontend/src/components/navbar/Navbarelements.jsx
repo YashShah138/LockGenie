@@ -11,7 +11,7 @@ export const Nav = styled.nav
     z-index: 12;
     /* Third Nav */
     justify-content: flex-start;
-`;
+`
 
 export const NavLink = styled(Link)
     `
@@ -26,7 +26,7 @@ export const NavLink = styled(Link)
     &.active {
         color: #000000;
     }
-`;
+`
 
 export const NavMenu = styled.div
     `
@@ -42,4 +42,4 @@ export const NavMenu = styled.div
     @media screen and (max-width: 768px) {
         display: none;
     }
-`;
+`
